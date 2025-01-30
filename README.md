@@ -1,4 +1,4 @@
-# Reminder App 🔔
+# Reminder App (WIP)🔔
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
